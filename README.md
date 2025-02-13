@@ -45,7 +45,7 @@ The project is divided into the following steps:
    - Compute the confusion matrix, classification report, and F1 score.
 
 5. **Custom Prediction**:
-   - A function to test the model with new word count inputs.
+   - A function to test the model with new custom emails.
 
 ## Key Metrics
 - **Confusion Matrix**: Evaluates the classification performance.
